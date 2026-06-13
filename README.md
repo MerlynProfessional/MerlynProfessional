@@ -1,10 +1,12 @@
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=MerlynProfessional&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
+
 # 👋 Hi, I'm Merlyn!
 
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="300px"/>
 </div>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+
 
 ## 🌟 About Me
 
