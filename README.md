@@ -16,7 +16,7 @@ I'm a passionate **full-stack developer** with expertise spanning **Data Science
 
 ## 💻 Tech Stack & Skills
 
-<div align="center">
+<div align="left">
 
 ### 🔬 Data Science & AI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -28,64 +28,28 @@ I'm a passionate **full-stack developer** with expertise spanning **Data Science
 
 ### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### 📱 Mobile Development
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### ⚙️ Backend & Systems
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
----
 
-## 🚀 Featured Projects
 
 <div align="center">
 
-### 🎨 **NeuroCanvas** - AI-Powered Digital Art Generator
-![Project Demo](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
-*Transform your ideas into stunning artwork using cutting-edge diffusion models*
-- **Tech**: TensorFlow, React, Node.js, WebGL
-- **Features**: Real-time style transfer, custom model training, export to multiple formats
-- [🔗 Live Demo](#) | [📂 GitHub](#)
 
-### 📊 **InsightFlow** - Real-time Analytics Dashboard
-![Project Demo](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
-*Visualize complex data streams with beautiful, interactive charts*
-- **Tech**: Python, Pandas, Plotly, Dash, WebSocket
-- **Features**: Live data streaming, customizable widgets, export reports, dark/light themes
-- [🔗 Live Demo](#) | [📂 GitHub](#)
 
-### 📱 **HealthTrack** - Comprehensive Wellness App
-![Project Demo](https://media.giphy.com/media/LmNwrBhejkd9EFP9g4/giphy.gif)
-*Track fitness, nutrition, and mental health in one beautiful interface*
-- **Tech**: Flutter, Firebase, Google Fit API, Machine Learning
-- **Features**: AI-powered recommendations, progress tracking, social challenges
-- [🔗 Live Demo](#) | [📂 GitHub](#)
 
-### ⚙️ **DevOpsPilot** - Infrastructure Automation Suite
-![Project Demo](https://media.giphy.com/media/3o7aD2saalBwwftZyY/giphy.gif)
-*Automate your deployment pipeline with intelligent monitoring*
-- **Tech**: Go, Docker, Kubernetes, Prometheus, Grafana
-- **Features**: Zero-downtime deployments, auto-scaling, anomaly detection
-- [🔗 Live Demo](#) | [📂 GitHub](#)
 
 </div>
 
@@ -138,7 +102,6 @@ Currently exploring:
 <div align="center">
   <img src="https://media.giphy.com/media/l0HlRUaWZxist0MqQ/giphy.gif" width="200px"/>
   <p><em>Thanks for visiting! Keep creating, keep learning.</em></p>
-  <p><img src="https://visitcount.itsvg.in/api?id=MerlynProfessional&icon=0&color=0&label=Profile%20Visitors&logoColor=ff69b4&bgColor=0d1117" alt="Profile Visitors"/></p>
 </div>
 
 <!-- 
