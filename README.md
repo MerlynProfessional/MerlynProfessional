@@ -4,6 +4,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="300px"/>
 </div>
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+
 ## 🌟 About Me
 
 I'm a passionate **full-stack developer** with expertise spanning **Data Science & AI**, **Web Development**, **Mobile Development**, and **Backend/Systems**. I love turning complex problems into elegant solutions and continuously learning new technologies to push the boundaries of what's possible.
